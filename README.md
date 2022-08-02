@@ -1,5 +1,7 @@
 # 3D Object Detection
 
+### Dataset used
+https://www.kaggle.com/datasets/balraj98/modelnet40-princeton-3d-object-dataset
 
 Below are instructions to implement in in your local system using a separate development environment using the [Conda](http://conda.pydata.org/docs/index.html) package management system which comes bundled with the Anaconda Python distribution provided by Continuum Analytics.
 
